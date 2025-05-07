@@ -5,12 +5,12 @@ This is not a legal document. It was not written or vetted by a lawyer, but rath
 Game Studio (herein Bot) is a Discord bot application purposed to play chat-games made on instructions written by users.
 By using Bot on Discord, users assert consent and comprehension of this Privacy Policy.
 
-During the use of Bot, Bot collects the instructions needed to host chat-games and stores them in Short Term Memory (herein STM).
+During the use of Bot, Bot collects the instructions needed to host chat-games given by users and stores them in Short Term Memory (herein STM).
 
 Users can always nullify collected data in STM through the use of Bot's Discord command "/reset".
 
-STM is always nullified everyday and is not shared with any parties.
-STM is not used for any other purposes other than beginning, playing, and analyzing chat-games.
+STM is nullified every day and is not shared with any parties, neither the Developer.
+STM is not used for any other purposes other than beginning, running, and analysing chat-games.
 Bot does a shorthand analysis of given STM to detect whether it's dangerous to run the chat-game.
 Result of the analysis is not shared with any parties, neither the Developer.
 
