@@ -1,11 +1,28 @@
 ## Game Studio Terms of Use
 
-This is not a legal document and was not written or vetted by a lawyer, rather M-at270 (herein Developer)
+This is not a legal document. It was not written or vetted by a lawyer, but rather M-at270 (herein Developer).
 
-
+Game Studio (herein Bot) is a Discord bot application purposed to play chat-games made on instructions written by users.
+By using Bot on Discord, users assert consent and comprehension of these Terms of Use (herein ToS).
 
 Bot offers free-form creation of chat-games (chat-games and user's chat-game instructions fully decide how Bot sends messages and runs the game), and so on the following responsibilities are asserted:
 1. The user is responsible for the data and chat-game instructions they submit to the Bot in order to run a chat-game.
 2. The user is responsible for the entire chat-game that user runs.
 3. The Developer is not responsible for results of any chat-game.
 4. The Developer is not responsible for input and data that users submit to the Bot in order to run a chat-game.
+
+Prior to the Bot's Free-form Creation aspect, Developer does not establish exact requirements and prerequisites (except those outlined in part 2) in order to moderate content submitted by users.
+Instead, Bot is fully purposed to be moderated by the Discord Guild community that the Bot is added into, in order to comply with the Guild's community Rules and policies.
+To aid in this, Bot proposes a Discord command "/modcall" that the Guild moderators can configure, to notify required content moderators.
+
+## Part 2: Internal set prerequisites for user chat-game instructions
+Before running a chat-game, Bot analyses given instructions to avoid violating Discord ToS. In order for a chat-game to be ran, user's instructions should be devoid of:
+1. Vulgar and hate speech
+2. Overly sexualized content
+3. Discrimination
+4. Spam and flood
+5. Religious and political content
+6. Violent, shocking content
+7. Mockery and cyberbullying
+
+Unfortunately, Bot may overlook potential bypasses used by users in chat-game instructions, and that is where Bot relies on Discord Guild moderation.
